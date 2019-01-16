@@ -35,7 +35,7 @@
          id="text918"
          inkscape:label="text bas"><textPath
            xlink:href="#path926"
-           id="textPath928">  BBBBBBBBBB</textPath></text>
+           id="textPath928">  BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB</textPath></text>
       <!--       id="textPath928">bas bas 1 s bas bas bas bas 2 s bas bas bas bas 3 s bas bas bas bas bas 4 s bas bas bas bas bas 5 s </textPath></text>   -->
       <path
          style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.20596525px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -51,7 +51,7 @@
          inkscape:label="text haut"><textPath
            xlink:href="#path926-6"
            id="textPath955"><tspan
-   id="tspan951">  HHHHHHHHHH</tspan></textPath></text>
+   id="tspan951">  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH</tspan></textPath></text>
       <!--d="tspan951">haut haut1haut haut haut2haut haut haut3haut haut haut4haut haut haut5haut</tspan></textPath></text>  -->
     </g>
     <clipPath
@@ -97,10 +97,10 @@
        id="clipPath963">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 155.60047,349.78802 24.58678,35.82563 11.64681,-7.58311 -7.8415,-27.19795 z"
+         d="m 155.60047,349.78802 -0.90418,3.01593 24.04988,34.10679 13.08789,-8.8802 -7.8415,-27.19795 z"
          id="path965"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
+         sodipodi:nodetypes="cccccc" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
@@ -117,20 +117,20 @@
        id="clipPath975">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 183.57735,350.63506 41.45181,13.29482 4.43122,-13.18285 -22.9006,-16.72386 z"
+         d="m 183.57735,350.63506 0.86014,2.39794 40.10006,12.746 4.92283,-15.03197 -22.9006,-16.72386 z"
          id="path977"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
+         sodipodi:nodetypes="cccccc" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath981">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 230.78491,351.51658 -22.7477,-16.91029 8.99503,-26.82958 13.5671,0.13642 z"
+         d="m 230.78491,351.51658 -22.7477,-16.91029 8.99503,-26.82958 16.22665,0.0492 -0.13773,41.8297 z"
          id="path983"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
+         sodipodi:nodetypes="cccccc" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
@@ -971,10 +971,10 @@
         <path
            id="path901-3"
            style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.10363644;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 131.97184,156.5452 15.24014,5.3443 m -60.098069,2.24405 9.973482,-13.27216 m 86.447167,44.44593 16.65364,-5.2124 m -2.59896,45.09337 15.69946,5.04318 m 12.28082,-81.78512 c 3.47821,5.14179 11.51303,16.19926 11.51303,16.19926 m -15.3914,33.47364 15.71312,-4.68557 v 0 z m -76.87304,-1.32002 15.71312,-4.68557 v 0 m -51.46485,22.42725 9.38191,13.44756 v 0 m 141.80982,-46.9086 15.45632,5.30815"
+           d="m 131.97184,156.5452 15.24014,5.3443 m -60.098069,2.24405 9.973482,-13.27216 m 86.447167,44.44593 16.65364,-5.2124 m -2.59896,45.09337 15.69946,5.04318 m 12.28082,-81.78512 c 3.47821,5.14179 11.51303,16.19926 11.51303,16.19926 m -15.68519,33.71847 16.00691,-4.9304 z m -76.57925,-1.56485 15.71312,-4.68557 v 0 m -51.46485,22.42725 9.38191,13.44756 v 0 m 141.80982,-46.9086 15.45632,5.30815"
            inkscape:connector-curvature="0"
            inkscape:label="encoches internes"
-           sodipodi:nodetypes="cccccccccccccccccccccc" />
+           sodipodi:nodetypes="ccccccccccccccccccccc" />
       </g>
       <g
          inkscape:label="pliages"
